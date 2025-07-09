@@ -33,7 +33,7 @@
 
 Each folder contains:
 
-* A `Dockerfile` with common tools preinstalled (`curl`, `vim`, `git`, `sudo`)
+* A `Dockerfile` with common tools preinstalled (`curl`, `vim`, `git`, `sudo`, `fastfetch`)
 * A non-root user named `dev` with passwordless sudo
 * Ready-to-run interactive shell environment
 
