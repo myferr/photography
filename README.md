@@ -6,6 +6,8 @@
 ![Fedora](https://img.shields.io/badge/Fedora-latest-51A2DA?style=flat&logo=fedora&logoColor=white)
 ![openSUSE Leap](https://img.shields.io/badge/openSUSE-Leap-73BA25?style=flat&logo=opensuse&logoColor=white)
 ![Tumbleweed](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=flat&logo=opensuse&logoColor=white)
+![RedHat UBI 10](https://img.shields.io/badge/redhat-ubi_10-A81D33?style=flat&logo=redhat&logoColor=white)
+
 
 > A collection of Dockerfiles for popular Linux distributions. Launch any of them in an interactive Docker shell with one command.
 > So now you can say *“I use Arch btw.”*
