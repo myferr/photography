@@ -24,7 +24,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/photography
+   git clone https://github.com/myferr/photography
    cd photography
    ```
 
