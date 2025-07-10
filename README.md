@@ -8,7 +8,8 @@
 ![Tumbleweed](https://img.shields.io/badge/openSUSE-Tumbleweed-73BA25?style=flat&logo=opensuse&logoColor=white)
 ![RedHat UBI 10](https://img.shields.io/badge/redhat-ubi_10-A81D33?style=flat&logo=redhat&logoColor=white)
 ![Alpine](https://img.shields.io/badge/alpine-latest-0D597F?style=flat&logo=alpinelinux&logoColor=white)
-![Alma](https://img.shields.io/badge/almalinux-latest-#000000?style=flat&logo=alpinelinux&logoColor=white)
+![Alma](https://img.shields.io/badge/alma-latest-000000?style=flat&logo=almalinux&logoColor=white)
+
 
 > A collection of Dockerfiles for popular Linux distributions. Launch any of them in an interactive Docker shell with one command.
 > So now you can say *“I use Arch btw.”*
