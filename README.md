@@ -13,6 +13,7 @@
 ![photon](https://img.shields.io/badge/photon-latest-FCC624?style=flat&logo=linux&logoColor=white)
 ![rocky](https://img.shields.io/badge/Rocky_Linux-9.3-10B981?style=flat&logo=rockylinux&logoColor=white)
 ![clear](https://img.shields.io/badge/Clear_Linux-SHA256-FCC624?style=flat&logo=linux&logoColor=white)
+![alt](https://img.shields.io/badge/ALT_Linux-latest-FCC624?style=flat&logo=linux&logoColor=white)
 
 
 
