@@ -11,6 +11,8 @@
 ![Alma](https://img.shields.io/badge/alma-latest-000000?style=flat&logo=almalinux&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Linux-9-FCC624?style=flat&logo=linux&logoColor=white)
 ![photon](https://img.shields.io/badge/photon-latest-FCC624?style=flat&logo=linux&logoColor=white)
+![rocky](https://img.shields.io/badge/Rocky_Linux-9.3-10B981?style=flat&logo=rockylinux&logoColor=white)
+
 
 
 > A collection of Dockerfiles for popular Linux distributions. Launch any of them in an interactive Docker shell with one command.
