@@ -5,7 +5,7 @@ RUN dnf update -y && \
     dnf clean all && \
     rm -rf /var/cache/dnf
 
-RUN git clone https://github.com/LinusDierheimer/fastfetch.git /tmp/fastfetch && \
+RUN git clone https://github.com/fastfetch-cli/fastfetch.git /tmp/fastfetch && \
     cd /tmp/fastfetch && \
     mkdir build && cd build && \
     cmake .. && \
